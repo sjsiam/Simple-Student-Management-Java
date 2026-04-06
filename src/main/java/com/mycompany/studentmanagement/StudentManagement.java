@@ -42,7 +42,7 @@ public class StudentManagement extends JFrame {
     public void initialization(){
         container = getContentPane();
         container.setLayout(null);
-        container.setBackground(Color.WHITE);
+        container.setBackground(Color.PINK);
         
         headingFont = new Font("Arial", Font.BOLD, 20);
         textFont = new Font("Arial", Font.BOLD, 14);
